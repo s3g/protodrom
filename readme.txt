@@ -1,4 +1,5 @@
 protoDROM: prototyping with libPd and Processing
+by Shawn Greenlee
 
 Lately I've been using libPd and Processing to prototype audio apps for iOS on my laptop.  I recently did this in the development of Fluxama's DR-OM app, a collection of three mini-synthesizers or "drone ready oscillator modules."  Fluxama is utilizing libPd for the audio in our apps, and as we were getting close to finalizing the first release of DR-OM, I decided to speed things up on the sound design by making use of the recently updated (but still tentative) libPd for Processing (by Peter Brinkmann).  Combined with the Processing libraries controlP5 and oscP5 (by Andreas Schlegel) along with a mobile app that can send multitouch OSC messages (like TB Midi Stuff or TouchOSC), I have a solid prototyping platform that allows me to fine tune things at a quick pace.  
 
