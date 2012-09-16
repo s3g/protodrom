@@ -26,7 +26,8 @@ c.  oscP5:  http://www.sojamo.de/libraries/oscP5/
 
 Once you have everything installed, run some examples included with the Processing libraries to make sure everything is working properly.
 
-And then check out the DR-OM tutorial code that I've uploaded to GitHub.
+And then check out the DR-OM tutorial code that I've uploaded to GitHub:
+https://github.com/s3g/protodrom
 
 Here's what you'll find:
 
