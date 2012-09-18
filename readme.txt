@@ -7,7 +7,7 @@ There is a great benefit beyond prototyping for mobile devices here.  The abilit
 
 To share a bit of my process, I've uploaded some commented tutorial examples to GitHub that will get you going with the essentials for piecing together one of Fluxama's prototype DR-OMs (a protoDrom).  If you are new to Processing and Pure Data, there's plenty of resources online and in print (check out books from O'Reilly, especially Peter Brinkmann's "Making Musical Apps" and Casey Reas and Ben Fry's "Getting Started with Processing").    
 
-Important to note is that as of this writing libPd for Processing is only available for Mac and Linux, and for good measure I'll let you know that I am running a Macbook Pro with the 10.8.1 OS (so if you working on another OS, mileage may vary).  
+Important to note is that as of this writing libPd for Processing is only available for Mac and Linux, and for good measure I'll let you know that I am running a Macbook Pro with the 10.8.1 OS (so if you're working on another OS, mileage may vary).  
 
 OK, before grabbing the code examples, first you'll need a few things:  
 
