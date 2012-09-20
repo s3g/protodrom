@@ -82,7 +82,7 @@ void oscEvent(OscMessage theOscMessage) {
 
   if (addr.equals("/drom/freq")) {
     freq = val1;
-  } // the Osc message you are sending must be formated as "/drom/freq" and will need to be a float in the range of 0-1
+  } // the Osc message you are sending must be formated as "/drom/vol" and will need to be a float in the range of 0-1
   controlP5.controller("freq").setValue(freq); // send the freq value to the freq slider
 
   if (addr.equals("/drom/vol")) {
