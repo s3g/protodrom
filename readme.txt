@@ -18,7 +18,7 @@ http://processing.org/
 http://puredata.info/downloads/pure-data
 
 3. Processing Libraries (copy these to your "libraries" folder, see respective sites for installation instructions).
-a.  libPd for Processing:  https://github.com/libpd/puredatap5  
+a.  libPd for Processing:  https://github.com/libpd/puredatap5 (unpack pdp5.zip into your Processing libraries folder) 
 b.  controlP5:  http://www.sojamo.de/libraries/controlP5/
 c.  oscP5:  http://www.sojamo.de/libraries/oscP5/
 
